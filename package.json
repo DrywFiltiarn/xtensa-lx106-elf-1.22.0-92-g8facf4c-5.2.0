@@ -1,0 +1,11 @@
+{
+    "description": "xtensa-gcc",
+    "name": "toolchain-xtensa-lx106-elf-520",
+    "system": [
+        "windows",
+        "windows_amd64",
+        "windows_x86"
+    ],
+    "url": "https://dl.espressif.com/dl/xtensa-lx106-elf-win32-1.22.0-92-g8facf4c-5.2.0.tar.gz",
+    "version": "5.2.0"
+}
