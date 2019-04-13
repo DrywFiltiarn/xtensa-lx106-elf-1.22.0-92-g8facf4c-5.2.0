@@ -1,0 +1,10 @@
+{
+  "name":"toolchain-xtensa520",
+  "description":"Toolchain for the ESP8266 microcontroller",
+  "url":"https://github.com/DrywFiltiarn/xtensa-lx106-elf-1.22.0-92-g8facf4c-5.2.0",
+  "version":"5.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrywFiltiarn/xtensa-lx106-elf-1.22.0-92-g8facf4c-5.2.0.git"
+  }
+}
