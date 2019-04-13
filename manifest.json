@@ -1,7 +1,7 @@
 {
     "toolchain-xtensa520": [
         {
-            "sha1": "841c3a6710dbd6c2ffbf5a5bc940b263a267d32b",
+            "sha1": "a1d6900d152417cb8cfab1782875ed1f3eaf0f0d",
             "system": [
                 "windows",
                 "windows_amd64",
@@ -11,7 +11,7 @@
             "version": "5.2.0"
         },
         {
-            "sha1": "2f01679a041a09166e395b4c37bec348c93a7a1d",
+            "sha1": "4f591eb75bf0fc2e9bfb089587674688c5ffe0e9",
             "system": [
                 "darwin_x86_64",
                 "darwin_i386"
